@@ -17,7 +17,7 @@ Tensors are used for storing data and performing mathematical operations efficie
 
 To check if a GPU is available, use `torch.cuda.is_available()`.
 
-### Why Tensors Win Over NumPy Arrays for Deep Learning
+### Why Tensors Win Over NumPy Arrays for Deep Learning?
 
 1. **GPU Acceleration**: Tensors can be easily moved to a GPU to leverage the parallel processing capabilities of GPUs. This makes training deep neural networks significantly faster compared to NumPy arrays which only run on CPUs.
 
