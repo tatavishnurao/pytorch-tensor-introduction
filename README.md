@@ -2,7 +2,7 @@
 
 
 ## Introduction
-This is my official learning about learning PyTorch.
+This is my official learning about learning PyTorch.   
 
 Tensors are the core data structures in PyTorch. They are multi-dimensional arrays similar to NumPy’s ndarrays but can run on GPUs for faster computation.
 
