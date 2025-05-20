@@ -12,7 +12,7 @@ A tensor can be:
 - A 1-dimensional tensor called a vector (e.g., `torch.tensor([7, 7])`).
 - A 2-dimensional tensor called a matrix (e.g., `torch.tensor([[7, 8], [9, 10]])`).
 - An n-dimensional tensor for higher dimensions.
-
+ 
 Tensors are used for storing data and performing mathematical operations efficiently on GPUs. To check the dimensions of a tensor, use the `.ndim` attribute. For the shape of a tensor, use the `.shape` attribute.
 
 To check if a GPU is available, use `torch.cuda.is_available()`.
